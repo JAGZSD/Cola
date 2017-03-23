@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Cola.h
+Nodo.h
+../include/Nodo.h
+
+../include/Nodo.h
+iostream
+-
+stdlib.h
+-
+
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 3/Cola/src/Cola.cpp
+Cola.h
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 3/Cola/src/Cola.h
+
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 3/Cola/src/Nodo.cpp
+Nodo.h
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 3/Cola/src/Nodo.h
+
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 3/Cola/src/main.cpp
+Cola.h
+/mnt/sda2/Users/JAGZ/Documents/Mis Documentos/~Materias/Algoritmos y Estructura de Datos/Tarea 3/Cola/src/Cola.h
+
